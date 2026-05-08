@@ -30,10 +30,6 @@ A full-featured mobile budget tracking application built with Flutter, designed 
 - Offline data persistence
 - Financial analytics and reporting
 
-## 📸 Screenshots
-
-> Screenshots will be added soon.
-
 ## 🎯 Purpose of the Project
 
 Cep Bütçem was developed to provide users with a simple, fast, and effective way to track their personal finances directly from their mobile devices.
